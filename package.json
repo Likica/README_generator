@@ -1,0 +1,22 @@
+{
+  "name": "readmegenerator",
+  "version": "1.0.0",
+  "description": "A command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package (Links to an external site.)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Likica/READMEgenerator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Likica/READMEgenerator/issues"
+  },
+  "homepage": "https://github.com/Likica/READMEgenerator#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
+}
