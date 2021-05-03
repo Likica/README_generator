@@ -1,7 +1,7 @@
 <h1 align='center'>READMEgenerator</h1>
 
 ### By likica * [Email me](mailto:fahrija_wyroski@live.com) * 
-  * [Deployed Appplication](https://www.github.com/likica.io/READMEgenerator) 
+  * [Screencastify Link](https://drive.google.com/file/d/1b-E5oGb8CAF71Z-sjC9BJusf5sOTJ9-5/view) 
 <br></br>
 
 <p align="center">
