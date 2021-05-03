@@ -68,7 +68,7 @@ function generateMarkdown(response) {
   * [Usage Instructions](#Usage-Instructions)
   * [Questions](#Questions)
   * [Contributing](#Contributing)
-  * [Test Instructions](#Test-Instructions)
+  * [Tests](#Tests)
  
   # Description
   ##### [Back to Table of Contents](#Table-of-Contents)
@@ -90,7 +90,7 @@ function generateMarkdown(response) {
   ##### [Back to Table of Contents](#Table-of-Contents)
   ${response.contributing}
 
-  ## Test Instructions
+  ## Tests
   #### [Back to Table of Contents](#Table-of-Contents)
   1. ${response.tests}
   2. ${response.tests1}

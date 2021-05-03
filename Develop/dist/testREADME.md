@@ -1,5 +1,5 @@
-# READMEgenerator
-  ### By likica * [Email me](fahrija_wyroski@live.com) * 
+# testREAMDE.md
+  ### By githubuser * [Email me](githubuser@email.com) * 
   * [Deployed Appplication](https://www.github.com/likica.io/READMEgenerator)
  
   ## Table of contents
@@ -12,32 +12,32 @@
  
   # Description
   ##### [Back to Table of Contents](#Table-of-Contents)
-  This application was built in aim to provide a way to quickly and easily create README.md file(s). Coding takes a lot of time, hence the idea for this application. I have learnt using the 'inquirer' for prompting my users for their input by answering listed questions. It is fun and easy to use.
+  Vestibulum feugiat laoreet condimentum. Nulla semper nisl arcu, a ultrices metus feugiat et. 
 
   ## User Story
   ##### [Back to Table of Contents](#Table-of-Contents)
-  AS A developer I WANT a README generator * SO THAT I can quickly create a professional README for a new project * GIVEN a command-line application that accepts user input * WHEN I am prompted for information about my application repository * THEN a high-quality, professional README.md is generated with the * title of my project and sections entitled Description, Table of * Contents, Installation, Usage, License, Contributing, Tests, and Questions * WHEN I enter my project title * THEN this is displayed as the title of the README * WHEN I enter a description, installation instructions, usage * information, contribution guidelines, and test instructions * THEN this information is added to the sections of the README * entitled Description, Installation, Usage, Contributing, and Tests * WHEN I choose a license for my application from a list of options * THEN a badge for that license is added near the top of the README * and a notice is added to the section of the README entitled License * that explains which license the application is covered under * WHEN I enter my GitHub username *  THEN this is added to the section of the README entitled Questions, * with a link to my GitHub profile * WHEN I enter my email address * THEN this is added to the section of the README entitled Questions, * with instructions on how to reach me with additional questions * WHEN I click on the links in the Table of Contents * THEN I am taken to the corresponding section of the README
+  Integer metus magna, venenatis in blandit ac, consequat quis sem. Donec semper hendrerit molestie. Integer porttitor felis quis risus lacinia, eget ornare ex auctor. 
 
   ## Installation Instructions
   ##### [Back to Table of Contents](#Table-of-Contents)
-  User will need to have node.js on their device, then run the applicaiton by using 'npm install' and 'npm run index.js' in their terminal VSCode and/or terminal/bash
+  Suspendisse vitae nisl vel ligula vehicula finibus. * Sed porttitor nibh lorem, ut auctor leo elementum vitae. * Nullam congue diam eget lectus fermentum rhoncus ac id odio.
 
   ## Usage Instructions
   ##### [Back to Table of Contents](#Table-of-Contents)
-  User will need to have node.js on their device, then run the applicaiton by using 'npm install' and 'npm run index.js' in their terminal VSCode and/or terminal/bash. Once user runs 'npm run index.js' command in their terminal, the app will start and user will be prompted to answer questions. Once user is done with answering prompts/questions, the READMEgenerator will generate a testREADME.md file with their inputs.
+  Pellentesque ut rhoncus quam. * Step 1: Pellentesque ut rhoncus quam. * Step 2: Pellentesque ut rhoncus quam.  * Step 3: Pellentesque ut rhoncus quam. 
 
   ## Contributing
   ##### [Back to Table of Contents](#Table-of-Contents)
-  Others are welcome to contribute, in accordance to [Contributor Covenant](https://www.contributor-covenant.org/)
+  Pellentesque ut rhoncus quam. 
 
   ## Test Instructions
   #### [Back to Table of Contents](#Table-of-Contents)
-  1. testREADME.md
-  2. 
+  1. test
+  2. test1
 
   ## Questions
   ##### [Back to Table of Contents](#Table-of-Contents)
-  * If you have any questions, please contact me at fahrija_wyroski@live.com
+  * If you have any questions, please contact me at githubuser@email.com
 
   ## License 
   * License Type: MIT
