@@ -59,7 +59,7 @@ function renderLicenseSection(response) {
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(response) {
   const content = `# ${response.title}
-  ### By ${response.userName} * [Email me](${response.email}) * 
+  ### By ${response.userName} * [Email me](mailto:${response.email}) * 
   * [Deployed Appplication](https://www.github.com/likica.io/READMEgenerator)
  
   ## Table of contents

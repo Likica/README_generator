@@ -1,5 +1,5 @@
-# testREAMDE.md
-  ### By githubuser * [Email me](githubuser@email.com) * 
+# READMEgenerator
+  ### By GitHubuser * [Email me](mailto:GitHubuser@email.com) * 
   * [Deployed Appplication](https://www.github.com/likica.io/READMEgenerator)
  
   ## Table of contents
@@ -8,11 +8,11 @@
   * [Usage Instructions](#Usage-Instructions)
   * [Questions](#Questions)
   * [Contributing](#Contributing)
-  * [Test Instructions](#Test-Instructions)
+  * [Tests](#Tests)
  
   # Description
   ##### [Back to Table of Contents](#Table-of-Contents)
-  Vestibulum feugiat laoreet condimentum. Nulla semper nisl arcu, a ultrices metus feugiat et. 
+  Vestibulum feugiat laoreet condimentum. Nulla semper nisl arcu, a ultrices metus feugiat et.
 
   ## User Story
   ##### [Back to Table of Contents](#Table-of-Contents)
@@ -30,14 +30,14 @@
   ##### [Back to Table of Contents](#Table-of-Contents)
   Pellentesque ut rhoncus quam. 
 
-  ## Test Instructions
+  ## Tests
   #### [Back to Table of Contents](#Table-of-Contents)
   1. test
   2. test1
 
   ## Questions
   ##### [Back to Table of Contents](#Table-of-Contents)
-  * If you have any questions, please contact me at githubuser@email.com
+  * If you have any questions, please contact me at GitHubuser@email.com
 
   ## License 
   * License Type: MIT
