@@ -1,8 +1,7 @@
 <h1 align='center'>READMEgenerator</h1>
 
 ### By likica * [Email me](fahrija_wyroski@live.com) * 
-  * [Deployed Appplication](https://www.github.com/likica.io/READMEgenerator)
- 
+  * [Deployed Appplication](https://www.github.com/likica.io/READMEgenerator) 
 <br></br>
 
 <p align="center">
@@ -24,7 +23,7 @@
 
 ## Description 
 A command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package (Links to an external site.)
-The README.md file is created in the "dist" folder within "develop" directory and can be found [here](./dist/README.md)
+The README.md file is created in the "dist" folder within "develop" directory and can be found [here](Develop/dist/testREADME.md)
 
 ## Table of contents
   * [Description](#Description)
@@ -32,7 +31,8 @@ The README.md file is created in the "dist" folder within "develop" directory an
   * [Usage Instructions](#Usage-Instructions)
   * [Questions](#Questions)
   * [Contributing](#Contributing)
-  * [Test Instructions](#Test-Instructions)
+  * [Tests](#Tests)
+  * [License](#License)
  
   # Description
   ##### [Back to Table of Contents](#Table-of-Contents)
@@ -44,33 +44,68 @@ The README.md file is created in the "dist" folder within "develop" directory an
 
   ## Installation Instructions
   ##### [Back to Table of Contents](#Table-of-Contents)
-  User will need to have node.js on their device, then run the applicaiton by using 'npm install' and 'npm run index.js' in their terminal VSCode and/or terminal/bash
+  * Requirements
+      - User needs to have npm package installed and terminal/bash or VSCode available
+  * Step 1:
+- npm install
+* Step 2:
+- node run index.js
+* Step 3:
+- Asnwer question prompts in terminal
+Step 4:
+- Open your generated testREADME.md file located in dist directory(within Develop directory)
 
   ## Usage Instructions
   ##### [Back to Table of Contents](#Table-of-Contents)
   This project is used for easy and quick README.md file creating
-  Provide a step-by-step description of how to get the development environment running.
-  Provide instructions and examples for use. Include screenshots as needed.
-  To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+    * Requirements
+- User needs to have npm package installed and terminal/bash or VSCode available
+  * Step 1:
+    - npm install
+<p align="center" width="100%">
+    <img src="Develop/assets/images/step1.png" width="40%"/>
+</p>
 
-```md
-![alt text](assets/images/screenshot.png)
-```
+  - _(You have to be in **Develop folder** when running the app)_
+    * Step 2:
+      - node run index.js
+    <p align="center" width="100%">
+    <img src="Develop/assets/images/step2.png" width="40%"/>
+</p>
+  
+  * Step 3:
+    
+      - Answer question prompts in terminal. 
+      - Once you answer all questions, your README file will be generated.
+    <p align="center" width="100%">
+    <img src="Develop/assets/images/step3.png" width="40%"/>
+    <img src="Develop/assets/images/step4.png" width="30%"/>
+    <img src="Develop/assets/images/step4a.png" width="30%"/>
+</p>
+ 
+  * Step 4:
+    - Open your generated testREADME.md file located in dist directory(within Develop directory).
+    - You can edit this file by removing/adding sections and/or images or other links.
+    
+<p align="center" width="100%">
+    <img src="Develop/assets/images/step4b.png" width="40%"/>
+</p>
 
   ## Contributing
   ##### [Back to Table of Contents](#Table-of-Contents)
   Others are welcome to contribute, respecting the license which this project is listed under
 
-  ## Test Instructions
+  ## Tests
   #### [Back to Table of Contents](#Table-of-Contents)
   1. testREADME.md
-  2. 
+  2. testREADME-1.md
 
   ## Questions
   ##### [Back to Table of Contents](#Table-of-Contents)
   * If you have any questions, please contact me at fahrija_wyroski@live.com
 
   ## License 
+  ##### [Back to Table of Contents](#Table-of-Contents)
   * License Type: MIT
     ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
     [License: MIT](https://opensource.org/licenses/MIT)
