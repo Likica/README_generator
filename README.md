@@ -1,6 +1,6 @@
 <h1 align='center'>READMEgenerator</h1>
 
-### By likica * [Email me](fahrija_wyroski@live.com) * 
+### By likica * [Email me](mailto:fahrija_wyroski@live.com) * 
   * [Deployed Appplication](https://www.github.com/likica.io/READMEgenerator) 
 <br></br>
 
