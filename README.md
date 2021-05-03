@@ -1,6 +1,8 @@
 <h1 align='center'>READMEgenerator</h1>
-A command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package (Links to an external site.)
-The README.md file is created in the "dist" folder within "develop" directory and can be found [here](./dist/README.md)
+
+### By likica * [Email me](fahrija_wyroski@live.com) * 
+  * [Deployed Appplication](https://www.github.com/likica.io/READMEgenerator)
+ 
 <br></br>
 
 <p align="center">
@@ -21,80 +23,58 @@ The README.md file is created in the "dist" folder within "develop" directory an
 
 
 ## Description 
+A command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package (Links to an external site.)
+The README.md file is created in the "dist" folder within "develop" directory and can be found [here](./dist/README.md)
 
-Lastly, if your project is deployed, include a link to the deployed application here.
+## Table of contents
+  * [Description](#Description)
+  * [Installation Instructions](#installation-Instructions)
+  * [Usage Instructions](#Usage-Instructions)
+  * [Questions](#Questions)
+  * [Contributing](#Contributing)
+  * [Test Instructions](#Test-Instructions)
+ 
+  # Description
+  ##### [Back to Table of Contents](#Table-of-Contents)
+  This application was built in aim to provide a way to quickly and easily create README.md file(s). Coding takes a lot of time, hence the idea for this application. I have learnt using the 'inquirer' for prompting my users for their input by answering listed questions. It is fun and easy to use.
 
-## Table of Contents (Optional)
+  ## User Story
+  ##### [Back to Table of Contents](#Table-of-Contents)
+  AS A developer I WANT a README generator * SO THAT I can quickly create a professional README for a new project * GIVEN a command-line application that accepts user input * WHEN I am prompted for information about my application repository * THEN a high-quality, professional README.md is generated with the * title of my project and sections entitled Description, Table of * Contents, Installation, Usage, License, Contributing, Tests, and Questions * WHEN I enter my project title * THEN this is displayed as the title of the README * WHEN I enter a description, installation instructions, usage * information, contribution guidelines, and test instructions * THEN this information is added to the sections of the README * entitled Description, Installation, Usage, Contributing, and Tests * WHEN I choose a license for my application from a list of options * THEN a badge for that license is added near the top of the README * and a notice is added to the section of the README entitled License * that explains which license the application is covered under * WHEN I enter my GitHub username *  THEN this is added to the section of the README entitled Questions, * with a link to my GitHub profile * WHEN I enter my email address * THEN this is added to the section of the README entitled Questions, * with instructions on how to reach me with additional questions * WHEN I click on the links in the Table of Contents * THEN I am taken to the corresponding section of the README
 
-If your README is very long, add a table of contents to make it easy for users to find what they need.
+  ## Installation Instructions
+  ##### [Back to Table of Contents](#Table-of-Contents)
+  User will need to have node.js on their device, then run the applicaiton by using 'npm install' and 'npm run index.js' in their terminal VSCode and/or terminal/bash
 
-* [Installation](#installation)
-* [Usage](#usage)
-* [Credits](#credits)
-* [License](#license)
-
-
-## Installation
-
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
-
-
-## Usage 
-
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+  ## Usage Instructions
+  ##### [Back to Table of Contents](#Table-of-Contents)
+  This project is used for easy and quick README.md file creating
+  Provide a step-by-step description of how to get the development environment running.
+  Provide instructions and examples for use. Include screenshots as needed.
+  To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
 ```md
 ![alt text](assets/images/screenshot.png)
 ```
 
+  ## Contributing
+  ##### [Back to Table of Contents](#Table-of-Contents)
+  Others are welcome to contribute, respecting the license which this project is listed under
 
-## Credits
+  ## Test Instructions
+  #### [Back to Table of Contents](#Table-of-Contents)
+  1. testREADME.md
+  2. 
 
-List your collaborators, if any, with links to their GitHub profiles.
+  ## Questions
+  ##### [Back to Table of Contents](#Table-of-Contents)
+  * If you have any questions, please contact me at fahrija_wyroski@live.com
 
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
-
-
-## License
-
- ### ReadMeGenerator© by Fahrija Wyroski 2021 All Rights Reserved.
-  * All material must be cited or credited, when using material (free to use).
-  #### MIT License
-Copyright (c) 2021 Fahrija Wyroski
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice (including the next paragraph) shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+  ## License 
+  * License Type: MIT
+    ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+    [License: MIT](https://opensource.org/licenses/MIT)
+    Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
-The last section of a good README is a license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, use [https://choosealicense.com/](https://choosealicense.com/)
-
-
----
-
-🏆 The sections listed above are the minimum for a good README, but your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
-
-## Badges
-
-![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
-
-Badges aren't _necessary_, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
-
-
-## Features
-
-If your project has a lot of features, consider adding a heading called "Features" and listing them there.
-
-
-## Contributing
-
-If you created an application or package and would like other developers to contribute it, you will want to add guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own.
-
-## Tests
-
-Go the extra mile and write tests for your application. Then provide examples on how to run them.
+  _This README was generated by Likica with_ ❤️ [READMEgenerator](https://github.com/likica/READMEgenerator)
