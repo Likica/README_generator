@@ -82,7 +82,7 @@ inquirer.prompt(questions).then(function (response) {
 
     const content = generateMarkdown(response);
     console.log(content);
-    fs.writeFile('./dist/testREADME.md', content, function (err) {
+    fs.writeFile('./dist/testREADME-1.md', content, function (err) {
         if (err) throw err
         console.log('Your readme is generated!');
     });
