@@ -1,6 +1,6 @@
 <h1 align='center'>READMEgenerator</h1>
 
-### By likica * [Email me](mailto:fahrija_wyroski@live.com) * 
+### By likica * [Email me](mailto:codefin9@hotmail.com) * 
   * [Walkthrough-video Link](https://drive.google.com/file/d/1b-E5oGb8CAF71Z-sjC9BJusf5sOTJ9-5/view) 
 <br></br>
 
@@ -102,7 +102,7 @@ Step 4:
 
   ## Questions
   ##### [Back to Table of Contents](#Table-of-Contents)
-  * If you have any questions, please contact me at fahrija_wyroski@live.com
+  * If you have any questions, please [Email me](mailto:codefin9@hotmail.com)
 
   ## License 
   ##### [Back to Table of Contents](#Table-of-Contents)
